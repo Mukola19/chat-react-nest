@@ -1,0 +1,34 @@
+Початок роботи 21.06.22
+
+
+
+Сlient 
+-React
+
+
+Server
+-Nest
+-Graphql
+-Socket.io
+-Mongodb
+
+
+start on docker-compose
+    docker-compose --file docker-compose-dev.yml up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

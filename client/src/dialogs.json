@@ -1,0 +1,117 @@
+[
+  {
+    "id": "n5298feff405523cfb0061e0",
+    "text": "Deserunt Lorem pariatur voluptate est dolor ullamco elit. Nisi pariatur duis quis magna ea dolore aliquip exercitation aliquip. Ex ad occaecat ex exercitation do in enim.",
+    "isReaded": false,
+    "author": {
+      "id": "r2b98fefa1e4653febf7b726"
+    },
+    "created_at": " Wed May 17 1989 18:05:42 GMT+0400 (за східноєвропейським літнім часом)   ",
+    "partner": {
+      "id": "pc0e8529bf639913782c1b8750941afe",
+      "fullName": "Tracy  House  ",
+      "photoUrl": "",
+      "isOnline": false
+    },
+    "lastMessage": {
+      "unreaded": 5,
+      "text": "Elit reprehenderit dolore enim elit irure. Cillum do ea ullamco commodo exercitation. Ad sunt sit nostrud ut ut consequat veniam consequat consectetur sunt.",
+      "attachments": [],
+      "user": {
+        "id": "62b98fefd743003689afa587"
+      }
+    }
+  },
+  {
+    "id": "62b98fef4b3fdfb3a23c81d2",
+    "text": "Dolore Lorem pariatur minim id commodo sit ullamco deserunt nostrud aute mollit laborum proident in. Dolor in amet incididunt nisi do anim ullamco dolor nulla. Cillum culpa esse ad ullamco anim cupidatat et do id irure mollit commodo.",
+    "isReaded": false,
+    "author": {
+      "id": "62b98fefa82bb08eab29cd96"
+    },
+    "created_at": " Sun Dec 11 2011 18:12:15 GMT+0200 (за східноєвропейським стандартним часом)",
+    "partner": {
+      "id": "s7f244ce8184b5fe3ed68e5bce29daf9",
+      "fullName": "Rhonda  Bradley  ",
+      "photoUrl": "",
+      "isOnline": false
+    },
+    "lastMessage": {
+      "unreaded": 42,
+      "text": "Eu esse proident laboris aliquip exercitation fugiat eiusmod nulla ullamco cillum ad. Sint velit adipisicing consectetur aliquip id ex aute. Cillum anim dolore tempor aliqua velit exercitation fugiat nulla proident elit minim.",
+      "attachments": [],
+      "user": {
+        "id": "62b98fef4ecfc390f79bd1ce"
+      }
+    }
+  },
+  {
+    "id": "62b98fef892c22838ae6c6eb",
+    "text": "Incididunt ullamco proident in id. Cillum mollit culpa elit incididunt sunt culpa labore pariatur non sint consequat culpa qui. Aute excepteur laboris ullamco duis amet nostrud laboris magna laborum.",
+    "isReaded": false,
+    "author": {
+      "id": "62b98fefb09aed68f1478e63"
+    },
+    "created_at": " Fri Sep 28 1984 11:08:24 GMT+0400 (за східноєвропейським літнім часом)",
+    "partner": {
+      "id": "y56e3bf12175cd78ebba28d775625111",
+      "fullName": "Russell  Knox  ",
+      "photoUrl": "",
+      "isOnline": false
+    },
+    "lastMessage": {
+      "unreaded": 19,
+      "text": "Eu ad sit do consectetur. Ad elit in exercitation ea et aliquip dolor sit et incididunt aliquip mollit. Dolore officia ut officia sint irure do minim tempor excepteur mollit.",
+      "attachments": [],
+      "user": {
+        "id": "62b98fef23ff49a3332ee384"
+      }
+    }
+  },
+  {
+    "id": "62b98fef76b969d309487b24",
+    "text": "Eiusmod ut ex ut ut ad est nostrud nostrud nostrud elit reprehenderit. Voluptate aute proident cupidatat ad. Sunt ullamco aute laborum nulla cupidatat amet excepteur proident adipisicing cupidatat minim ea qui incididunt.",
+    "isReaded": true,
+    "author": {
+      "id": "62b98fef75dfefb3e3c0b0a3"
+    },
+    "created_at": " Thu Jul 16 1970 07:40:22 GMT+0300 (за східноєвропейським стандартним часом)",
+    "partner": {
+      "id": "62b98fefc14a23c412cb0728",
+      "fullName": "Susanna  Stokes  ",
+      "photoUrl": "",
+      "isOnline": false
+    },
+    "lastMessage": {
+      "unreaded": 6,
+      "text": "Minim elit proident reprehenderit do ullamco sit veniam id in minim excepteur proident proident. Cupidatat aliquip minim consectetur irure anim reprehenderit pariatur consequat do laboris laborum. Exercitation sint ea occaecat eiusmod amet dolor duis consectetur.",
+      "attachments": [],
+      "user": {
+        "id": "62b98fefcf8041a4fd33d169"
+      }
+    }
+  },
+  {
+    "id": "62b98feff24bb9553dd3a330",
+    "text": "Nisi eiusmod reprehenderit ullamco et pariatur aute incididunt pariatur amet est. Ullamco aliquip mollit ea ut incididunt pariatur laboris proident ex. Laborum deserunt aute voluptate nisi aliquip nulla ipsum est nisi veniam dolore proident dolor.",
+    "isReaded": true,
+    "author": {
+      "id": "62b98fef96dbe145bbccd9ac"
+    },
+    "created_at": " Sun Apr 06 2014 22:39:09 GMT+0300 (за східноєвропейським літнім часом)",
+    "partner": {
+      "id": "62b98fef92ed82a07c6f619e",
+      "fullName": "Velma  Stein  ",
+      "photoUrl": "",
+      "isOnline": true
+    },
+    "lastMessage": {
+      "unreaded": 2,
+      "text": "Duis incididunt elit voluptate laborum. Culpa eiusmod labore laborum elit ad voluptate eiusmod qui aute magna anim. Mollit reprehenderit ea ea commodo aliquip voluptate voluptate cupidatat ut ipsum consectetur.",
+      "attachments": [],
+      "user": {
+        "id": "62b98fef15237a5e7ad62e94"
+      }
+    }
+  }
+]

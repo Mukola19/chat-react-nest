@@ -1,0 +1,56 @@
+mutation ($input: RegisterUserDto!) {
+  registration(input: $input) {
+    accessToken
+  }
+}
+
+# {"input": { "lastName": "mk",
+# "firstName": "mkmk",
+# "email": "mkmk@gmail.com",
+# "password":"0000" ,
+# "remember": true}}
+
+
+
+
+# LOGIN
+mutation ($input:LoginUserDto!) {
+  login (input:$input ) {
+    accessToken
+  }
+}
+
+{"input": {
+"email": "mkmk@gmail.com",
+"password":"0000" ,
+"remember": true}}
+
+
+
+
+# TOKEN 
+{"Authorization": "Bearer "}
+
+
+
+
+#REFRESH
+query {
+  refresh{
+    accessToken
+  }
+}
+
+
+
+#CREATE_DIALOG
+
+mutation ($input:CreateDialogDto!) {
+  createDialog (input:$input ) {
+    _id, lastMessage, partnerId
+  }
+}
+
+# { "input": {
+#   "parnterId": ""
+# }}
